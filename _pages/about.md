@@ -38,7 +38,7 @@ During my Ph.D., as a Research Intern, I had the privilege to collaborate with b
 <p> </p>
 # Research interests
 
-- Program analysis \[[ArCode](https://ieeexplore.ieee.org/iel7/9426689/9426711/09426773.pdf)\]\[[Seneca](https://arxiv.org/pdf/2311.00943)\]\[[DepRes](https://arxiv.org/pdf/2108.01165)\]
+- Program analysis \[[ArCode](https://ieeexplore.ieee.org/document/9426773)\]\[[Seneca](https://dl.acm.org/doi/10.1145/3649851)\]\[[DepRes](https://arxiv.org/pdf/2108.01165)\]
 - Program Synthesis \[[IPSynth](https://ieeexplore.ieee.org/iel7/9678507/9678392/09678705.pdf)\]\[[CONSTRUCT](https://arxiv.org/pdf/2308.00250)\]
 - Software Security \[[SecCont](https://arxiv.org/pdf/2307.05605)\]\[[Sherlock](https://ieeexplore.ieee.org/iel7/9307608/9307628/09307656.pdf)\]
 
