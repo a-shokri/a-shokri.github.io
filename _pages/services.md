@@ -16,7 +16,7 @@ author_profile: true
 ## Conferences (PC Member)
 
 ### 2024
-- [Upcoming] 18th European Conference on Software Architecture \([ECSA'24 Research Track](https://conf.researchr.org/track/ecsa-2024/ecsa-2024-research-papers))
+- 18th European Conference on Software Architecture \([ECSA'24 Research Track](https://conf.researchr.org/track/ecsa-2024/ecsa-2024-research-papers))
 - 33rd USENIX Symposium Security \([USENIX'24 Research Track](https://www.usenix.org/conference/usenixsecurity24/call-for-papers))
 - 17th IEEE International Conference on Software Testing, Verification and Validation \([ICST'24 Tool Track](https://conf.researchr.org/track/icst-2024/icst-2024-testing-tool-demo#ICST-2024-Testing-Tools-and-Demonstration-Call-for-Papers))
 
