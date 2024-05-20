@@ -10,7 +10,7 @@ The full record of my publications is available from my [Google Scholar](https:/
 ### 2024
 - [To be appeared] Shokri, A., Mujhid, IJ, Mirakhorli, M., IPSynth: Interprocedural Program Synthesis for Software Security Implementation (2024).
 - [To be appeared] Verbeek, F., Shokri, A., Engel, D., Ravindran, B., Formally Verified Binary-level Pointer Analysis (2024).
-- [Accepted to OOPSLA'24] Santos, J., Mirakhorli, M. and Shokri, A., 2023. Sound Call Graph Construction for Java Object Deserialization. arXiv preprint arXiv:2311.00943. 
+- Santos, J.C., Mirakhorli, M. and Shokri, A., 2024. Seneca: Taint-Based Call Graph Construction for Java Object Deserialization. Proceedings of the ACM on Programming Languages, 8(OOPSLA 1), pp.1125-1153. 
  
 ### 2023
 - Shokri, A., Perez, A., Chowdhury, S., Zeng, C., Kaloor, G., Matei, I., Schneider, P.P., Gunasekaran, A. and Rane, S., 2023. CONSTRUCT: A Program Synthesis Approach for Reconstructing Control Algorithms from Embedded System Binaries in Cyber-Physical Systems. arXiv preprint arXiv:2308.00250.
