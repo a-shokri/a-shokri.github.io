@@ -49,7 +49,7 @@ During my Ph.D., as a Research Intern, I had the privilege to collaborate with b
 
 
 # News & announcements
-**Nov 2024:** I will be serving [Language-Theoretic Security (LangSec'25)](https://langsec.org/spw25) at the S&P'25 as a PC member.\\
+**Nov 2024:** I will be serving [LangSec'25](https://langsec.org/spw25) at the S&P'25 as a PC member.\\
 **Nov 2024:** Our paper on formally-verified binary analysis got conditionally accepted to [ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-research-track) reseach track.\\
 **Apr 2024:** Our [paper](https://dl.acm.org/doi/abs/10.1145/3649851) on sound call graph construction was accepted by [OOPSLA'24](https://2024.splashcon.org/track/splash-2024-oopsla#Call-for-Papers) reseach track and is published now.\\
 **Jan 2024:** I will be serving [USENIX'24](https://www.usenix.org/conference/usenixsecurity24) (Research track), [ECSA'24](https://conf.researchr.org/track/ecsa-2024/ecsa-2024-research-papers) (Research track), and [ICST'24](https://conf.researchr.org/track/icst-2024/icst-2024-testing-tool-demo#ICST-2024-Testing-Tools-and-Demonstration-Call-for-Papers) (Tool track) as a PC member.\\
