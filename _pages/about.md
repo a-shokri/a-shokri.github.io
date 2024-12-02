@@ -29,7 +29,7 @@ During my Ph.D., as a Research Intern, I had the privilege to collaborate with b
 
  
 ![Announcement](/assets/images/hiclipart_announcement.png){: width="50" } <b>I'm on the job market for the next academic year (2025-26) for an assistant professor postition.</b> 
-<Please find my [CV](/assets/docs/Ali Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali Shokri-Research Statement.pdf), and [teaching statement](/assets/docs/Ali Shokri-Teaching Statement.pdf.pdf).
+Please find my [CV](/assets/docs/Ali Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali Shokri-Research Statement.pdf), and [teaching statement](/assets/docs/Ali Shokri-Teaching Statement.pdf.pdf).
 
 <!--div style="font-size: 0.95em; padding: 0.1em 0.50em; border-radius: 0.5em; border: 1px solid #3853a470; background: #f5f6f7cf;" markdown="1">
 
