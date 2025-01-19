@@ -14,9 +14,11 @@ author_profile: true
 - Sub-reviewer for ACM Transactions on Software Engineering and Methodology \([ToSEM](https://dl.acm.org/journal/tosem))
 
 ## Conferences (PC Member)
-
-### 2024
+### 2025
+- 41st IEEE International Conference on Software Maintenance and Evolution ([ICSME'25 Research Track](https://conf.researchr.org/track/icsme-2025/icsme-2025-papers))
 - 11th LangSec Workshop at IEEE Security & Privacy \([LangSec'25](https://langsec.org/spw25))
+  
+### 2024
 - 18th European Conference on Software Architecture \([ECSA'24 Research Track](https://conf.researchr.org/track/ecsa-2024/ecsa-2024-research-papers))
 - 33rd USENIX Symposium Security \([USENIX'24 Research Track](https://www.usenix.org/conference/usenixsecurity24/call-for-papers))
 - 17th IEEE International Conference on Software Testing, Verification and Validation \([ICST'24 Tool Track](https://conf.researchr.org/track/icst-2024/icst-2024-testing-tool-demo#ICST-2024-Testing-Tools-and-Demonstration-Call-for-Papers))
