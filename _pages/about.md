@@ -44,15 +44,15 @@ Please find my [CV](/assets/docs/Ali Shokri-CV-2025.pdf), [research statement](/
 - Software Security \[[SecCont](https://arxiv.org/pdf/2307.05605)\]\[[Sherlock](https://ieeexplore.ieee.org/iel7/9307608/9307628/09307656.pdf)\]
 -->
 <!--
-- Program analysis \[[ICSE'25](https://a-shokri.github.io)\]\[[OOPSLA'24](https://dl.acm.org/doi/10.1145/3649851)\]\[[ICSA'21](https://ieeexplore.ieee.org/document/9426773)\]\[[ICPC'21](https://ieeexplore.ieee.org/abstract/document/9462989)\]\[[DepRes](https://arxiv.org/pdf/2108.01165)\]
+- Program analysis \[[ICSE'25](https://arxiv.org/pdf/2501.17766)\]\[[OOPSLA'24](https://dl.acm.org/doi/10.1145/3649851)\]\[[ICSA'21](https://ieeexplore.ieee.org/document/9426773)\]\[[ICPC'21](https://ieeexplore.ieee.org/abstract/document/9462989)\]\[[DepRes](https://arxiv.org/pdf/2108.01165)\]
 - Program Synthesis \[[ASE'21](https://ieeexplore.ieee.org/iel7/9678507/9678392/09678705.pdf)\] \[[IPSynth](https://arxiv.org/abs/2403.10836)\] \[[CONSTRUCT](https://arxiv.org/pdf/2308.00250)\]
 - Software Security \[[SecCont](https://arxiv.org/pdf/2307.05605)\]\[[Sherlock](https://ieeexplore.ieee.org/iel7/9307608/9307628/09307656.pdf)\]
 -->
-- Software Quality \[[ICSE'25](https://a-shokri.github.io)\]\[[OOPSLA'24](https://dl.acm.org/doi/10.1145/3649851)\]\[[ICSA'21](https://ieeexplore.ieee.org/document/9426773)\]\[[DepRes](https://arxiv.org/pdf/2108.01165)\]\[[SecCont](https://arxiv.org/pdf/2307.05605)\]\[[Sherlock](https://ieeexplore.ieee.org/iel7/9307608/9307628/09307656.pdf)\]
+- Software Quality \[[ICSE'25](https://arxiv.org/pdf/2501.17766)\]\[[OOPSLA'24](https://dl.acm.org/doi/10.1145/3649851)\]\[[ICSA'21](https://ieeexplore.ieee.org/document/9426773)\]\[[DepRes](https://arxiv.org/pdf/2108.01165)\]\[[SecCont](https://arxiv.org/pdf/2307.05605)\]\[[Sherlock](https://ieeexplore.ieee.org/iel7/9307608/9307628/09307656.pdf)\]
 - Software Productivity \[[ASE'21](https://ieeexplore.ieee.org/iel7/9678507/9678392/09678705.pdf)\] \[[IPSynth](https://arxiv.org/abs/2403.10836)\]\[[ICPC'21](https://ieeexplore.ieee.org/abstract/document/9462989)\]\[[CONSTRUCT](https://arxiv.org/pdf/2308.00250)\]
 
 # News & announcements
-**Jan 2025:** Our paper on formally-verified binary analysis got accepted to [ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-research-track) reseach track.\\
+**Jan 2025:** Our [paper](https://arxiv.org/pdf/2501.17766) on formally-verified binary analysis got accepted to [ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-research-track) reseach track.\\
 **Nov 2024:** I will be serving [LangSec'25](https://langsec.org/spw25) at the S&P'25 as a PC member.\\
 **Nov 2024:** Our paper on formally-verified binary analysis got conditionally accepted to [ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-research-track) reseach track.\\
 **Apr 2024:** Our [paper](https://dl.acm.org/doi/abs/10.1145/3649851) on sound call graph construction was accepted by [OOPSLA'24](https://2024.splashcon.org/track/splash-2024-oopsla#Call-for-Papers) reseach track and is published now.\\
