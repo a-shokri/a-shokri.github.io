@@ -198,27 +198,28 @@ Please find my [CV](/assets/docs/Ali Shokri-CV-2025.pdf), [research statement](/
 <button id="loadMoreBtn" style="margin-top: 10px;">Load more</button>
 
 <script>
-const list = document.querySelectorAll("#newsList li");
-const loadMoreBtn = document.getElementById("loadMoreBtn");
-let visibleCount = 4;
+document.addEventListener("DOMContentLoaded", () => {
+  const list = document.querySelectorAll("#newsList li");
+  const loadMoreBtn = document.getElementById("loadMoreBtn");
+  let visibleCount = 4;
 
-list.forEach((item, index) => {
-  if (index >= visibleCount) item.style.display = "none";
-});
-
-loadMoreBtn.addEventListener("click", () => {
-  let shownCount = 0;
   list.forEach((item, index) => {
-    if (item.style.display === "none" && shownCount < 4) {
-      item.style.display = "block";
-      shownCount++;
+    if (index >= visibleCount) item.style.display = "none";
+  });
+
+  loadMoreBtn.addEventListener("click", () => {
+    let shownCount = 0;
+    list.forEach((item) => {
+      if (item.style.display === "none" && shownCount < 4) {
+        item.style.display = "block";
+        shownCount++;
+      }
+    });
+
+    const hiddenItems = Array.from(list).filter(item => item.style.display === "none");
+    if (hiddenItems.length === 0) {
+      loadMoreBtn.style.display = "none";
     }
   });
-  
-  // If all items are now visible, hide the button
-  const hiddenItems = Array.from(list).filter(item => item.style.display === "none");
-  if (hiddenItems.length === 0) {
-    loadMoreBtn.style.display = "none";
-  }
 });
 </script>
