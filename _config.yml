@@ -9,8 +9,10 @@
 locale                   : "en-US"
 title                    : "Ali Shokri"
 title_separator          : "-"
+# name                     : &name "<img src=\"https://www.uh.edu/brand/_img/uh_red.png\" style=\"width:35px\">Ali Shokri"
 name                     : &name "Ali Shokri"
-description              : &description "Postdoc Associate at Virginia Tech"
+# description              : &description "Assistant Professor<br>University of Houston"
+description              : &description "Postdoctoral Research Associate<br>Virginia Tech"
 url                      : https://a-shokri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "a-shokri.github.io"
@@ -82,11 +84,14 @@ analytics:
 author:
   name             : "Ali Shokri, PhD"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Associate at Virginia Tech, Software Security, Program Analysis, and Formal Methods"
+  # bio              : "<b>Assistant Professor</b><br>Dept. of Computer Science<br>University of Houston, TX</center>"
+  bio              : "<b>Postdoctoral Research Associate</b><br>SSRG, Virginia Tech</center>"
+  # location         : "Texas, USA"
   location         : "Virginia, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2bRaz-QAAAAJ&hl=en&authuser=1"
+  # email            : ashokri [at] uh [at] edu
   email            : ashokri [at] vt [at] edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
