@@ -30,7 +30,7 @@ If you're **already admitted** to the Ph.D. program and interested in the areas 
 If you're **planning to apply** to the Ph.D. program at the [UH Department of Computer Science](https://uh.edu/nsm/computer-science/) and:
 
 - Have a strong programming background (e.g., app/system development, analysis tools, static analysis)  
-- Have demonstrated research experience through internships, papers, or substantial projects  
+- Have demonstrated research experience through papers or other solid evidences  
 - Are clearly aligned with the research directions of my group  
 
 I encourage you to apply and **mention my name in your Statement of Purpose** so your application is flagged for review. You **do not need to email me directly**. Instead, please complete the [Ph.D. Interest Form](https://forms.gle/DPvfmVDgoQfjhaoW9). I’ll follow up if needed during the admission process.
@@ -39,7 +39,7 @@ I encourage you to apply and **mention my name in your Statement of Purpose** so
 
 ## UH M.S. Students
 
-If you're a current Master’s student in the CS department at UH and are interested in working with me on a research project, thesis, or capstone related to software productivity or quality, you are welcome to include my name in your application and complete the [Master’s Interest Form](https://forms.gle/v8gxsCrfg25MrqD36).
+If you're a current Master’s student in the CS department at UH and are interested in working with me on a research project, thesis, or capstone related to software productivity or quality, please complete the [Master’s Interest Form](https://forms.gle/v8gxsCrfg25MrqD36).
 
 ---
 
