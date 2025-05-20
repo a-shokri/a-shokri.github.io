@@ -24,9 +24,10 @@ I am an incoming tenure-track Assistant Professor in the [Department of Computer
 
 <div style="font-size: 0.95em; padding: 0.1em 0.50em; padding-top:6px; border-radius: 0.5em; border: 2px solid #ff3000; background: #f9f3decf" markdown="1">
 
-![Announcement](/assets/images/hiclipart_announcement.png){: width="30" } I'm hiring PhD and Master's students for Fall 2025 in the areas of <b>Automated Software Productivity</b> (code synthesis and translation) and <b>Code Reliability and Quality</b> (bug detection and security assurance). If you’re interested in these topics and are a prospective PhD student already admitted for Fall 2025, planning to apply for Spring 2026 to UH, or considering future Master’s opportunities, please fill out the appropriate interest form: [PhD](https://forms.gle/DPvfmVDgoQfjhaoW9) or [Master's](https://forms.gle/v8gxsCrfg25MrqD36). 
+![Announcement](/assets/images/hiclipart_announcement.png){: width="30" } I'm hiring PhD and Master's students for Fall 2025 in the areas of <b>Automated Software Productivity</b> (code synthesis and translation) and <b>Code Reliability and Quality</b> (bug detection and security assurance). If you’re interested in these topics, please refer to this [page](work-with-me). 
+<!-- and are a prospective PhD student already admitted for Fall 2025, planning to apply for Spring 2026 to UH, or considering future Master’s opportunities, please fill out the appropriate interest form: [PhD](https://forms.gle/DPvfmVDgoQfjhaoW9) or [Master's](https://forms.gle/v8gxsCrfg25MrqD36). -->
 
-Due to the high volume of interest, I'm unable to respond to individual emails. Please fill out the form only, and I’ll reach out if there’s a potential match.
+<!--Due to the high volume of interest, I'm unable to respond to individual emails. Please fill out the form only, and I’ll reach out if there’s a potential match.-->
 
 </div>
 <br/>
