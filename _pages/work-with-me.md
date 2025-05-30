@@ -39,7 +39,7 @@ I encourage you to apply and **mention my name in your Statement of Purpose** so
 
 ## UH M.S. Students
 
-If you're a current Master’s student in the CS department at UH and are interested in working with me on a research project, thesis, or capstone related to software productivity or quality, please complete the [Master’s Interest Form](https://forms.gle/v8gxsCrfg25MrqD36).
+If you're a current Master’s student in the CS department at UH and are interested in working with me on a research project, thesis, or capstone related to software productivity or quality, please complete the [Master’s Interest Form](https://forms.gle/v8gxsCrfg25MrqD36). Please note that I'm not hiring for an RA roll at this moment, but would be happy to hearing from you if you're looking for an advisor.
 
 ---
 
