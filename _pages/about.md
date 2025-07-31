@@ -69,7 +69,7 @@ Please find my [CV](/assets/docs/Ali Shokri-CV-2025.pdf), [research statement](/
 <p> </p>
 # Teaching
 
-- Fall 2025: [COSC 4315 - Programming Languages and Paradigms](https://publications.uh.edu/preview_course_nopop.php?catoid=49&coid=251944)
+- Fall 2025: [COSC 4315 - Programming Languages and Paradigms](https://uh.simplesyllabus.com/en-US/doc/4kg2x75pu/Fall-2025-COSC-4315-26604-?mode=view)
 
 
 # News & announcements
