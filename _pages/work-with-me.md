@@ -12,7 +12,7 @@ strong {
 }
 </style>
 
-I’m recruiting students who are excited about building the next generation of approaches and tools for **automating software development** and improving **code reliability and security**. My group works on topics such as:
+I’m recruiting students who are excited about building the next generation of approaches and tools for **automating software development** and improving **code quality, reliability, and security**. My group works on topics such as:
 
 - Code translation and synthesis  
 - Bug detection and program analysis  
