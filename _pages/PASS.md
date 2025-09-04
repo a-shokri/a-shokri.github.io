@@ -1,5 +1,5 @@
 ---
-permalink: /work-with-me/
+permalink: /PASS/
 layout: single
 title: "Joining the Productivity and Security in Software Engineering (PASS) Lab"
 excerpt: "Information for prospective students interested in joining my group"
