@@ -22,14 +22,14 @@ redirect_from:
 
 I am a tenure-track Assistant Professor in the [Department of Computer Science](https://www.uh.edu/nsm/computer-science/) at the [University of Houston](https://www.uh.edu).
 
-<div style="font-size: 0.95em; padding: 0.1em 0.50em; padding-top:6px; border-radius: 0.5em; border: 2px solid #ff3000; background: #f9f3decf" markdown="1">
+<!--div style="font-size: 0.95em; padding: 0.1em 0.50em; padding-top:6px; border-radius: 0.5em; border: 2px solid #ff3000; background: #f9f3decf" markdown="1">
 
 ![Announcement](/assets/images/hiclipart_announcement.png){: width="30" } I'm hiring PhD students for Spring 2026 in the areas of <b>Automated Software Productivity</b> (code synthesis and translation) and <b>Code Reliability and Quality</b> (bug detection and security assurance). If you’re interested in these topics, please refer to this [page](PaSS). 
 <!-- and are a prospective PhD student already admitted for Fall 2025, planning to apply for Spring 2026 to UH, or considering future Master’s opportunities, please fill out the appropriate interest form: [PhD](https://forms.gle/DPvfmVDgoQfjhaoW9) or [Master's](https://forms.gle/v8gxsCrfg25MrqD36). -->
 
 <!--Due to the high volume of interest, I'm unable to respond to individual emails. Please fill out the form only, and I’ll reach out if there’s a potential match.-->
 
-</div>
+</div-->
 <br/>
 Before that, I was a postdoctoral research associate in the [Systems Software Research Group](https://www.ssrg.ece.vt.edu/), Bradley Department of Electrical and Computer Engineering at [Virginia Tech](https://ece.vt.edu/), VA, USA, working with [Prof. Binoy Ravindran](https://binoyravindran.github.io/) on the intersection of security, program analysis, and formal methods. I received my Ph.D. in Computing and Information Sciences from [Rochester Institute of Technology (RIT)](https://rit.edu/), NY, USA, in 2023, under the supervision of [Dr. Mirakhorli](http://www.se.rit.edu/~mehdi/) with the focus on program synthesis and program analysis. In particular, my dissertation aimed at pushing the boundary of program synthesis and supporting a wide range of software developers with inter-procedural program synthesis.
 
