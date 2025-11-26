@@ -24,7 +24,8 @@ I’m recruiting students who are excited about building the next generation of 
 
 ## Ph.D. Applicants
 I’m **not hiring** a PhD student in my lab at the moment. **However**, if you are a PhD student and are interested in a **joint effort** on a project in the areas mentioned above, please feel free to reach out.
-<!--If you're **already admitted** to the Ph.D. program and interested in the areas above, I'd like to hear from you. Please email me using the subject line:  
+<!--
+If you're **already admitted** to the Ph.D. program and interested in the areas above, I'd like to hear from you. Please email me using the subject line:  
 [Admitted PhD Student] Fall 2025 (or the relevant semester).
 
 If you're **planning to apply** to the Ph.D. program at the [UH Department of Computer Science](https://uh.edu/nsm/computer-science/) and:
