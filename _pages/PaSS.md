@@ -6,11 +6,11 @@ excerpt: "Information for prospective students interested in joining my group"
 author_profile: true
 ---
 <style>
+  
 /* Override bold color to black for this page only */
 strong {
   color: black !important;
 }
-  
 </style>
 
 I’m recruiting students who are excited about building the next generation of approaches and tools for **automating software development** and improving **code quality, reliability, and security**. My group works on topics such as:
@@ -40,4 +40,6 @@ You **do not need to secure a faculty advisor before applying** to UH’s Ph.D. 
 
 Filling out a form or expressing interest is **non-binding** for either side. It simply opens the door for a possible research match.
 
+
 *Due to the high volume of interest, I'm unable to respond to individual emails. Please fill out the form only, and I’ll reach out if there’s a potential match.*
+
