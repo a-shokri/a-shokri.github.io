@@ -24,7 +24,7 @@ I’m recruiting students who are excited about building the next generation of 
 ---
 
 ## Ph.D. Applicants
-I’m not actively hiring a new PhD student right now. That said, if you are a current PhD student and would like to explore a collaborative research project in the areas above, I’d be happy to hear from you.<!– If you’re already admitted to the Ph.D. program and interested in the areas above, I’d like to hear from you. Please email me using the subject line:
+I’m not actively hiring a new PhD student right now. That said, if you are a current PhD student and would like to explore a collaborative research project in the areas above, I’d be happy to hear from you.<!–- If you’re already admitted to the Ph.D. program and interested in the areas above, I’d like to hear from you. Please email me using the subject line:
 [Admitted PhD Student] Fall 2025 (or the relevant semester).
 
 If you’re planning to apply to the Ph.D. program at the UH Department of Computer Science and:
