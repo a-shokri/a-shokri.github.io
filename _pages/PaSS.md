@@ -24,7 +24,7 @@ I’m recruiting students who are excited about building the next generation of 
 ---
 
 ## Ph.D. Applicants
-I’m **not hiring** a PhD student in my lab at the moment. **However**, if you are a PhD student and are interested in a **joint effort** on a project in the areas mentioned above, please feel free to reach out.
+I’m not actively hiring a new PhD student right now. That said, if you are a current PhD student and would like to explore a collaborative research project in the areas above, I’d be happy to hear from you.
 
 ---
 
