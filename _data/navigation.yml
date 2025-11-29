@@ -19,7 +19,7 @@ main:
     url: /experiences/
         
   - title: "PaSS Lab"
-    url: /PaSS/
+    url: https://pass-uh.github.io
        
   # - title: "Teaching"
   #   url: /teaching/  
