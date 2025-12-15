@@ -63,7 +63,7 @@ Please find my [CV](/assets/docs/Ali Shokri-CV-2025.pdf), [research statement](/
 - Software Security \[[SecCont](https://arxiv.org/pdf/2307.05605)\]\[[Sherlock](https://ieeexplore.ieee.org/iel7/9307608/9307628/09307656.pdf)\]
 -->
 - Software Quality \[[ICSE'25](https://arxiv.org/pdf/2501.17766)\]\[[OOPSLA'24](https://dl.acm.org/doi/10.1145/3649851)\]\[[ICSA'21](https://ieeexplore.ieee.org/document/9426773)\]\[[DepRes](https://arxiv.org/pdf/2108.01165)\]\[[SecCont](https://arxiv.org/pdf/2307.05605)\]\[[Sherlock](https://ieeexplore.ieee.org/iel7/9307608/9307628/09307656.pdf)\]
-- Software Productivity \[[ASE'21](https://ieeexplore.ieee.org/iel7/9678507/9678392/09678705.pdf)\] \[[IPSynth](https://arxiv.org/abs/2403.10836)\]\[[ICPC'21](https://ieeexplore.ieee.org/abstract/document/9462989)\]\[[CONSTRUCT](https://arxiv.org/pdf/2308.00250)\]
+- Software Productivity \[[LAC2R](https://arxiv.org/pdf/2505.15858)\] \[[ASE'21](https://ieeexplore.ieee.org/iel7/9678507/9678392/09678705.pdf)\] \[[IPSynth](https://arxiv.org/abs/2403.10836)\]\[[ICPC'21](https://ieeexplore.ieee.org/abstract/document/9462989)\]\[[CONSTRUCT](https://arxiv.org/pdf/2308.00250)\]
 
 <p> </p>
 # Teaching
