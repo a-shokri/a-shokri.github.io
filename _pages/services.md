@@ -14,6 +14,8 @@ author_profile: true
 - Sub-reviewer for ACM Transactions on Software Engineering and Methodology \([ToSEM](https://dl.acm.org/journal/tosem))
 
 ## Conferences (PC Member)
+### 2026
+- 19th IEEE International Conference on Software Testing, Verification and Validation ([ICST'26 Vision and Emerging Results Track]\(https://conf.researchr.org/track/icst-2026/icst-2026-short-papers--vision-and-emerging-results\))
 ### 2025
 - 41st IEEE International Conference on Software Maintenance and Evolution ([ICSME'25 Research Track](https://conf.researchr.org/track/icsme-2025/icsme-2025-papers))
 - 11th LangSec Workshop at IEEE Security & Privacy \([LangSec'25](https://langsec.org/spw25))
