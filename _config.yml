@@ -90,7 +90,7 @@ author:
   # location         : "Virginia, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=2bRaz-QAAAAJ&hl=en&authuser=1"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=2bRaz-QAAAAJ&view_op=list_works&sortby=pubdate"
   email            : ashokri [at] central [dot] uh [dot] edu
   # email            : ashokri [at] vt [at] edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
